@@ -1,0 +1,9 @@
+# Ignora tudo dentro de backend/Include/
+backend/Include/
+
+# Ignora outras pastas e arquivos do ambiente virtual
+backend/Lib/
+backend/Scripts/
+backend/pyvenv.cfg
+
+*.pyc
